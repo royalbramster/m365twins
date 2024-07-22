@@ -1,3 +1,4 @@
-baseURL = 
+baseURL = 'https://royalbramster.github.io/m365twins'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'ananke'
